@@ -14,7 +14,7 @@
   padding: 15px 20px;
   box-sizing: border-box;
   margin: 8px 0 32px;
-  border: 1px solid#838383;
+  border: 1px solid #838383;
   border-radius: 4px;
 }
 
@@ -51,7 +51,7 @@
   line-height: 20px;
 }
 
-.form__checkboxcode_type_checkbox {
+.form__checkbox_type_checkbox {
   display: flex;
   gap: 12px;
   justify-content: center;
