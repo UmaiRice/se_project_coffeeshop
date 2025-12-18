@@ -2,6 +2,12 @@
   max-width: 385px;
 }
 
+.form__input::placeholder {
+  color: #999;
+  font-size: 14px;
+  font-style: italic;
+}
+
 .form__fieldset {
   margin: 0;
   padding: 0;
@@ -55,4 +61,5 @@
   display: flex;
   gap: 12px;
   justify-content: center;
+  display: inline;
 }
