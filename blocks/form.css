@@ -8,6 +8,13 @@
   font-style: italic;
 }
 
+.form__label_type_checkbox {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
 .form__fieldset {
   margin: 0;
   padding: 0;
